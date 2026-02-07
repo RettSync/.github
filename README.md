@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://rettsync.com/assets/logo.png" width="100" alt="RettSync Logo" />
+ ### <img src="https://rettsync.com/assets/logo.png" width="100" alt="RettSync Logo" />
   <h1>RettSync</h1>
   <h3>Digital Solutions You Own. No Subscriptions.</h3>
   <p>
